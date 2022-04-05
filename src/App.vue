@@ -1,15 +1,15 @@
 <template>
   <main>
-
+    <px-header/>
   </main>
 </template>
 
 <script>
+import PxHeader from '@/component/PxHeader'
+
 export default {
   name: 'App',
-  components: {
-
-  }
+  components: { PxHeader }
 }
 </script>
 
