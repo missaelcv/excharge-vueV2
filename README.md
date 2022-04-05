@@ -1,5 +1,4 @@
-# excharge-vue
-
+# Excharge-vue
 ## Project setup
 ```
 npm install
