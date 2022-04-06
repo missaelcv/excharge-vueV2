@@ -21,5 +21,5 @@ export default {
   name: 'PxHeader',
 
   components: { PxIcon }
-};
+}
 </script>
