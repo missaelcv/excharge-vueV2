@@ -7,8 +7,8 @@
 </template>
 
 <script>
-import PxHeader from '@/component/PxHeader'
-import PxAssetsTable from '@/component/PxAssetsTable.vue'
+import PxHeader from './components/PxHeader.vue'
+import PxAssetsTable from './components/PxIcon.vue'
 
 export default {
   name: 'App',
