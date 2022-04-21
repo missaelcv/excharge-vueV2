@@ -2,17 +2,17 @@
   <main>
     <px-header/>
 
-    <px-assets-table/>
+    <router-view/>
+
   </main>
 </template>
 
 <script>
 import PxHeader from './components/PxHeader.vue'
-import PxAssetsTable from './components/PxIcon.vue'
 
 export default {
   name: 'App',
-  components: { PxHeader, PxAssetsTable }
+  components: { PxHeader }
 }
 </script>
 
