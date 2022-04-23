@@ -9,9 +9,8 @@ import PxAssetsTable from '@/components/PxAssetsTable'
 
 export default {
 
-  components: { PxAssetsTable },
+  name: "home",
 
-  name: 'Home'
-
+  components: { PxAssetsTable }
 }
 </script>

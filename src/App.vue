@@ -11,7 +11,7 @@
 import PxHeader from './components/PxHeader.vue'
 
 export default {
-  name: 'App',
+  name: 'app',
   components: { PxHeader }
 }
 </script>
